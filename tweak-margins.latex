@@ -1,0 +1,10 @@
+%%% Header-Include for Pandoc
+%%%
+%%% Tweaking text margins to put more text on the page
+
+\topmargin=0cm
+\textheight=27cm
+
+\oddsidemargin=0cm
+\evensidemargin=0cm
+\textwidth=17cm
